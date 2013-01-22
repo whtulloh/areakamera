@@ -1,0 +1,9 @@
+    <script type="text/javascript" src="<?php echo base_url();?>res/js/jquery-1.7.2.min.js"></script> 
+    <script type="text/javascript" src="<?php echo base_url();?>res/js/jquery-ui-1.8.21.custom.min.js"></script> 
+    <script type="text/javascript" src="<?php echo base_url();?>res/js/bootstrap.js"></script>    
+    <script type="text/javascript" src="<?php echo base_url();?>res/js/bootstrap-collapse.js"></script>  
+    <script type="text/javascript" src="<?php echo base_url();?>res/js/bootstrap-carousel.js"></script>      
+    <script type="text/javascript" src="<?php echo base_url();?>res/js/jquery.rating.pack.js"></script>      
+    <script type="text/javascript" src="<?php echo base_url();?>res/js/jquery.fancybox-1.3.4.js"></script>               
+    <script type="text/javascript" src="<?php echo base_url();?>res/js/superfish.js"></script>  
+    <script type="text/javascript" src="<?php echo base_url();?>res/js/my.js"></script>  

@@ -1,0 +1,160 @@
+body {padding-top: 10px;padding-bottom: 40px;}
+.span12, .container {width: 940px;}
+.no_margin_left {margin-left: 0;}
+footer h4 {margin-bottom: 8px;}
+.logo {
+    height: 90px;
+}
+.links a {
+    margin-right: 5px;
+}
+
+.product_list {
+    margin-top: -5px;
+    margin-left: 0px;
+}
+
+.related_products .span2 {
+    width:160px;
+}
+
+.product_comparison .thumbnail{
+    border: none;
+    text-align:center;
+
+}
+
+.product_comparison small{
+    font-weight: normal;
+}
+
+.product_comparison .product_stars {
+    text-align:center;
+    margin: 0 auto;
+    width: 85px;
+}
+.product_comparison .price_summary td{
+    text-align:center;
+}
+.navbar .btn.search_btn {
+    margin-top:1px;
+}
+
+.carousel-inner {
+    height: 286px;
+}
+.carousel-caption {
+    bottom: -77px;
+}
+
+.popular_products .span2{
+    width:160px;
+}
+
+
+.customer_service {
+    text-align:right;
+    font-size:13px;
+}
+
+.table td.center_text{
+    text-align:center;
+}
+
+/* Updated 16 Desember 2012 */
+
+footer ul {
+    list-style: none;
+    margin: 0;
+}
+
+footer ul li {
+    padding: 5px 0;
+    color: 000;
+}
+
+footer ul li a.block{
+    display: block;
+}
+
+footer div.tentang-kami{
+    color: #DD4814
+}
+
+.copyright{
+    font-size: 11px; text-align: center; padding: 0; margin: 0;
+}
+
+.clear{
+    clear: both;
+}
+
+.logo a:hover{
+    color: #DD4814;
+    text-decoration: none;
+}
+
+.title-logo{
+    font-size: 39px;
+}
+
+.head-inf h4{
+    font-size: 12px;
+    font-weight: none;
+    padding: 3px 0;
+}
+
+.head-inf h4 a, .copyright a{
+    color: black;
+}
+.head-inf h4 a:hover{
+    text-decoration: none;
+}
+
+.article article.home-article{
+    padding: 15px 0;
+    border-bottom: 1px solid;
+}
+
+.article article.home-article:last-child{
+    border-bottom: none;
+}
+
+.article article.home-article:first-child{
+    padding-top: 0;
+}
+
+.article article.home-article header{
+    font-size: 15px;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+.article article.home-article header a{
+    color: black;
+}
+
+.article article.comment{
+    padding: 15px 0;
+    border-bottom: 1px solid;
+}
+
+.article article.comment:last-child{
+    border-bottom: none;
+}
+
+.article article.comment:first-child{
+    padding-top: 0;
+}
+
+.article article.comment header{
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.article article.comment header span{
+    display: block;
+    font-size: 11px;
+    font-weight: normal;
+    padding-bottom: 5px;
+}
